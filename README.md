@@ -25,6 +25,13 @@ npm run dev
 npm run build
 ```
 
+## Publicar no GitHub Pages
+
+1. Crie o repositório público `component-card-stories` em `marukarocha`.
+2. Faça `git push -u origin main`.
+3. No GitHub, abra `Settings > Pages`.
+4. Em `Build and deployment`, selecione `GitHub Actions`.
+
 ## Rotas
 
 Os cards abrem URLs como:
